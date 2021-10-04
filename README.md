@@ -1,5 +1,5 @@
 # 911 Calls Dataset
-For this capstone project we will be analyzing some 911 call data from Kaggle. We will be performing some data analysis as well as visualisation on the set of data.
+For this project we will be analyzing some 911 call data from Kaggle. We will be performing some data analysis as well as visualisation on the set of data.
 
 The data contains the following fields: </br>
 (lat : String variable, Latitude), (lng: String variable, Longitude), (desc: String variable, Description of the Emergency Call), (zip: String variable, Zipcode), (title: 
